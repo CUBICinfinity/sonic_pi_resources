@@ -1,3 +1,5 @@
+# Same as scale_building_functions.rb, but `tile` function is merged with `edx` and `ji`
+
 # Equal Temperament
 define :edx do
   | mode = [2,2,1,2,2,2],
